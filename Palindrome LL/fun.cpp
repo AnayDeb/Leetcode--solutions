@@ -1,0 +1,1 @@
+//https://leetcode.com/problems/palindrome-linked-list/solutions/6372580/easy-wala-hai-by-anay111111-yeno/
